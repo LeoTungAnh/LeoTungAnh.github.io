@@ -9,9 +9,9 @@ profile:
   image: prof_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>4W4</p>
-    <p>1 Cleveland street</p>
-    <p>Sydney, NSW 2008, Australia</p>
+    <p>4W4,</p>
+    <p>, 1 Cleveland street</p>
+    <p>, Sydney, NSW 2008, Australia</p>
 
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
