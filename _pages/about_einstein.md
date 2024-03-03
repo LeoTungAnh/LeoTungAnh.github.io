@@ -1,5 +1,1 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Tung-Anh Nguyen received his B.E. degree in Electronics and Telecommunications from Hanoi University of Science and Technology (HUST), Vietnam, in 2016. He received his MSC degree in Computer and Information Science from Korea University, Korea, in 2019. Currently, he is pursuing a PhD degree in Computer Science at DUAL group, Faculty of Engineering, the University of Sydney (USyd), NSW, Australia. His research interests include Distributed Machine Learning, Federated Learning, Blockchain and Distributed Optimization.
